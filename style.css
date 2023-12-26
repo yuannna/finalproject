@@ -14,7 +14,7 @@
   width: 75px;
   top: 225px;
   position: relative;
-  background-image: url("images-removebg-preview.png");
+  background-image: url("下載-removebg-preview.png");
   background-size: cover;
 }
 
@@ -24,7 +24,7 @@
   position: relative;
   top: 175px;
   left: 550px;
-  background-image: url("下載-removebg-preview.png");
+  background-image: url("images-removebg-preview.png");
   background-size: cover;
   animation: rock 1.33s infinite;
 }
