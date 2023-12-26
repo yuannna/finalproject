@@ -5,7 +5,7 @@
   height: 300px;
   border: 2px solid black;
   margin: auto;
-  background-image: url("./背景.PNG");
+  background-image: url("背景.PNG");
   background-size: cover;
 }
 
@@ -14,7 +14,7 @@
   width: 75px;
   top: 225px;
   position: relative;
-  background-image: url("./貓咪.png");
+  background-image: url("貓咪.png");
   background-size: cover;
 }
 
@@ -24,7 +24,7 @@
   position: relative;
   top: 175px;
   left: 550px;
-  background-image: url("./鯊魚.png");
+  background-image: url("鯊魚.png");
   background-size: cover;
   animation: rock 1.33s infinite;
 }
